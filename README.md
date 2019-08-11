@@ -1,5 +1,5 @@
 # Score-level-fusion-of-LRC-and-NRC
 Linear regression classification (LRC) represents a test sample in a class specific fashion, while collaborative representation based classification (CRC) employs all the training data to express the test sample. Therefore, LRC can be regarded as local representation approach and CRC as global representation method. To fully exploit the merits of local and global representations, a score level fusion of LRC nd CRC is presented in [1]. Very recently, Xu et al. [2] developed a nonnegative representation based classification (NRC) algorithm. Inspired by the above work, we propose a score level fusion method based on LRC and NRC.
 
-[1] Zhang H, Wang F, Chen Y, et al. Combination of linear regression classification and collaborative representation classification[J]. Neural Computing and Applications, 2014, 25(3-4): 833-838.
+[1] Zhang H, Wang F, Chen Y, et al. Combination of linear regression classification and collaborative representation classification[J]. Neural Computing and Applications, 2014, 25(3-4): 833-838.<br>
 [2] Xu J, An W, Zhang L, et al. Sparse, collaborative, or nonnegative representation: Which helps pattern classification?[J]. Pattern Recognition, 2019, 88: 679-688.
